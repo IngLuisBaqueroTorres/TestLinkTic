@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: testlinktic
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: testlinktic
+  template:
+    metadata:
+      labels:
+        app: testlinktic
+    spec:
+      containers:
+        - name: testlinktic
+          image: iingeduardobt123/testlinktic:latest
+          ports:
+            - containerPort: 8080
+
