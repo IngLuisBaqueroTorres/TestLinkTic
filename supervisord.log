@@ -1,0 +1,124 @@
+2023-10-14 18:10:43,505 INFO Set uid to user 0 succeeded
+2023-10-14 18:10:43,508 INFO supervisord started with pid 1
+2023-10-14 18:10:44,512 INFO spawned: 'app' with pid 7
+2023-10-14 18:10:44,517 INFO spawned: 'tunnel' with pid 8
+2023-10-14 18:10:44,523 INFO exited: app (exit status 2; not expected)
+2023-10-14 18:10:44,523 INFO gave up: app entered FATAL state, too many start retries too quickly
+2023-10-14 18:10:45,959 INFO success: tunnel entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-14 18:11:43,018 WARN received SIGTERM indicating exit request
+2023-10-14 18:11:43,018 INFO waiting for tunnel to die
+2023-10-14 18:11:43,020 INFO stopped: tunnel (exit status 255)
+2023-10-14 18:12:07,374 INFO Set uid to user 0 succeeded
+2023-10-14 18:12:07,376 INFO supervisord started with pid 1
+2023-10-14 18:12:08,380 INFO spawned: 'app' with pid 7
+2023-10-14 18:12:08,384 INFO spawned: 'tunnel' with pid 8
+2023-10-14 18:12:08,392 INFO exited: app (exit status 2; not expected)
+2023-10-14 18:12:08,392 INFO gave up: app entered FATAL state, too many start retries too quickly
+2023-10-14 18:12:09,822 INFO success: tunnel entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-14 18:12:21,835 WARN received SIGTERM indicating exit request
+2023-10-14 18:12:21,836 INFO waiting for tunnel to die
+2023-10-14 18:12:21,840 INFO stopped: tunnel (exit status 255)
+2023-10-14 18:13:19,137 INFO Set uid to user 0 succeeded
+2023-10-14 18:13:19,139 INFO supervisord started with pid 1
+2023-10-14 18:13:20,144 INFO spawned: 'app' with pid 7
+2023-10-14 18:13:20,147 INFO spawned: 'tunnel' with pid 8
+2023-10-14 18:13:20,155 INFO exited: app (exit status 2; not expected)
+2023-10-14 18:13:20,169 INFO gave up: app entered FATAL state, too many start retries too quickly
+2023-10-14 18:13:21,629 INFO success: tunnel entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-14 18:17:33,877 WARN received SIGTERM indicating exit request
+2023-10-14 18:17:33,877 INFO waiting for tunnel to die
+2023-10-14 18:17:33,882 INFO stopped: tunnel (exit status 255)
+2023-10-14 18:17:59,223 INFO Set uid to user 0 succeeded
+2023-10-14 18:17:59,225 INFO supervisord started with pid 1
+2023-10-14 18:18:00,229 INFO spawned: 'app' with pid 7
+2023-10-14 18:18:00,233 INFO spawned: 'tunnel' with pid 8
+2023-10-14 18:18:00,239 INFO exited: app (exit status 2; not expected)
+2023-10-14 18:18:00,239 INFO gave up: app entered FATAL state, too many start retries too quickly
+2023-10-14 18:18:01,845 INFO success: tunnel entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-14 18:19:36,939 WARN received SIGTERM indicating exit request
+2023-10-14 18:19:36,940 INFO waiting for tunnel to die
+2023-10-14 18:19:36,941 INFO stopped: tunnel (exit status 255)
+2023-10-14 18:21:16,801 INFO Set uid to user 0 succeeded
+2023-10-14 18:21:16,808 INFO supervisord started with pid 1
+2023-10-14 18:21:17,812 INFO spawned: 'app' with pid 7
+2023-10-14 18:21:17,815 INFO spawned: 'tunnel' with pid 8
+2023-10-14 18:21:17,824 INFO exited: app (exit status 2; not expected)
+2023-10-14 18:21:17,835 INFO gave up: app entered FATAL state, too many start retries too quickly
+2023-10-14 18:21:18,683 INFO exited: tunnel (exit status 255; not expected)
+2023-10-14 18:21:19,684 INFO gave up: tunnel entered FATAL state, too many start retries too quickly
+2023-10-14 18:28:44,140 WARN received SIGTERM indicating exit request
+2023-10-14 18:28:50,826 INFO Set uid to user 0 succeeded
+2023-10-14 18:28:50,829 INFO supervisord started with pid 1
+2023-10-14 18:28:51,833 INFO spawned: 'app' with pid 7
+2023-10-14 18:28:51,837 INFO spawned: 'tunnel' with pid 8
+2023-10-14 18:28:51,844 INFO exited: app (exit status 2; not expected)
+2023-10-14 18:28:51,849 INFO gave up: app entered FATAL state, too many start retries too quickly
+2023-10-14 18:28:52,850 INFO success: tunnel entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-14 18:28:52,901 INFO exited: tunnel (exit status 255; not expected)
+2023-10-14 18:28:53,907 INFO spawned: 'tunnel' with pid 9
+2023-10-14 18:28:54,926 INFO success: tunnel entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-14 18:29:07,237 INFO exited: tunnel (exit status 255; not expected)
+2023-10-14 18:29:08,243 INFO spawned: 'tunnel' with pid 10
+2023-10-14 18:29:09,261 INFO success: tunnel entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-14 18:29:09,285 INFO exited: tunnel (exit status 255; not expected)
+2023-10-14 18:29:10,291 INFO spawned: 'tunnel' with pid 11
+2023-10-14 18:29:11,128 INFO exited: tunnel (exit status 255; not expected)
+2023-10-14 18:29:12,129 INFO gave up: tunnel entered FATAL state, too many start retries too quickly
+2023-10-14 18:30:02,180 WARN received SIGTERM indicating exit request
+2023-10-14 18:30:46,872 INFO Set uid to user 0 succeeded
+2023-10-14 18:30:46,877 INFO supervisord started with pid 1
+2023-10-14 18:30:47,881 INFO spawned: 'app' with pid 7
+2023-10-14 18:30:47,882 INFO spawnerr: can't find command 'ssh'
+2023-10-14 18:30:47,892 INFO gave up: tunnel entered FATAL state, too many start retries too quickly
+2023-10-14 18:30:47,892 INFO exited: app (exit status 2; not expected)
+2023-10-14 18:30:48,894 INFO gave up: app entered FATAL state, too many start retries too quickly
+2023-10-14 18:33:24,055 WARN received SIGTERM indicating exit request
+2023-10-14 19:46:06,684 INFO Set uid to user 0 succeeded
+2023-10-14 19:46:06,687 INFO supervisord started with pid 1
+2023-10-14 19:46:07,691 INFO spawned: 'app' with pid 7
+2023-10-14 19:46:08,709 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-14 19:49:09,017 WARN received SIGTERM indicating exit request
+2023-10-14 19:49:09,018 INFO waiting for app to die
+2023-10-14 19:49:10,019 INFO stopped: app (terminated by SIGTERM)
+2023-10-14 19:49:11,526 INFO Set uid to user 0 succeeded
+2023-10-14 19:49:11,530 INFO supervisord started with pid 1
+2023-10-14 19:49:12,535 INFO spawned: 'app' with pid 7
+2023-10-14 19:49:13,550 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-14 19:50:56,217 WARN received SIGTERM indicating exit request
+2023-10-14 19:50:56,218 INFO waiting for app to die
+2023-10-14 19:50:57,220 INFO stopped: app (terminated by SIGTERM)
+2023-10-14 19:51:33,855 INFO Set uid to user 0 succeeded
+2023-10-14 19:51:33,858 INFO supervisord started with pid 1
+2023-10-14 19:51:34,861 INFO spawned: 'app' with pid 7
+2023-10-14 19:51:35,878 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-14 19:53:08,535 WARN received SIGTERM indicating exit request
+2023-10-14 19:53:08,535 INFO waiting for app to die
+2023-10-14 19:53:09,030 INFO stopped: app (terminated by SIGTERM)
+2023-10-14 19:55:01,067 INFO Set uid to user 0 succeeded
+2023-10-14 19:55:01,069 INFO supervisord started with pid 1
+2023-10-14 19:55:02,073 INFO spawned: 'app' with pid 7
+2023-10-14 19:55:03,092 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-14 19:56:55,849 WARN received SIGTERM indicating exit request
+2023-10-14 19:56:55,850 INFO waiting for app to die
+2023-10-14 19:56:56,851 INFO stopped: app (terminated by SIGTERM)
+2023-10-14 20:31:17,290 INFO Set uid to user 0 succeeded
+2023-10-14 20:31:17,292 INFO supervisord started with pid 1
+2023-10-14 20:31:18,296 INFO spawned: 'app' with pid 7
+2023-10-14 20:31:19,306 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-14 20:48:22,748 WARN received SIGTERM indicating exit request
+2023-10-14 20:48:22,749 INFO waiting for app to die
+2023-10-14 20:48:23,750 INFO stopped: app (terminated by SIGTERM)
+2023-10-14 20:50:29,227 INFO Set uid to user 0 succeeded
+2023-10-14 20:50:29,231 INFO supervisord started with pid 1
+2023-10-14 20:50:30,235 INFO spawned: 'app' with pid 7
+2023-10-14 20:50:31,252 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-14 21:17:11,856 WARN received SIGTERM indicating exit request
+2023-10-14 21:17:11,857 INFO waiting for app to die
+2023-10-14 21:17:12,858 INFO stopped: app (terminated by SIGTERM)
+2023-10-15 15:04:41,944 INFO Set uid to user 0 succeeded
+2023-10-15 15:04:41,948 INFO supervisord started with pid 1
+2023-10-15 15:04:42,952 INFO spawned: 'app' with pid 7
+2023-10-15 15:04:43,971 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-15 15:05:36,449 WARN received SIGTERM indicating exit request
+2023-10-15 15:05:36,449 INFO waiting for app to die
+2023-10-15 15:05:37,450 INFO stopped: app (terminated by SIGTERM)
