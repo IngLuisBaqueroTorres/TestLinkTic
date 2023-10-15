@@ -192,3 +192,17 @@
 2023-10-15 21:18:19,640 WARN received SIGTERM indicating exit request
 2023-10-15 21:18:19,641 INFO waiting for app to die
 2023-10-15 21:18:20,648 INFO stopped: app (terminated by SIGTERM)
+2023-10-15 23:09:46,608 INFO Set uid to user 0 succeeded
+2023-10-15 23:09:46,616 INFO supervisord started with pid 1
+2023-10-15 23:09:47,624 INFO spawned: 'app' with pid 7
+2023-10-15 23:09:48,639 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-15 23:10:36,780 WARN received SIGTERM indicating exit request
+2023-10-15 23:10:36,780 INFO waiting for app to die
+2023-10-15 23:10:37,781 INFO stopped: app (terminated by SIGTERM)
+2023-10-15 23:14:41,507 INFO Set uid to user 0 succeeded
+2023-10-15 23:14:41,510 INFO supervisord started with pid 1
+2023-10-15 23:14:42,513 INFO spawned: 'app' with pid 7
+2023-10-15 23:14:43,529 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-15 23:15:50,826 WARN received SIGTERM indicating exit request
+2023-10-15 23:15:50,826 INFO waiting for app to die
+2023-10-15 23:15:51,828 INFO stopped: app (terminated by SIGTERM)
