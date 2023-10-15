@@ -18,7 +18,7 @@ public class TestLinkticController {
         @Autowired
         private ProductRepository productRepository;
 
-        @GetMapping("/products")
+        @GetMapping("/get-products")
         public ResponseEntity<List<Product>> getAllProducts() {
             try {
                 List<Product> products = new ArrayList<>(productRepository.findAll());
@@ -33,7 +33,7 @@ public class TestLinkticController {
 
         }
 
-        @GetMapping("/product/{id}")
+        @GetMapping("/get-product/{id}")
         public ResponseEntity<Product> getProductById(@PathVariable("id") long id) {
             try {
                 Optional<Product> productData = productRepository.findById(id);
@@ -44,7 +44,7 @@ public class TestLinkticController {
 
         }
 
-        @PostMapping("/create")
+        @PostMapping("/create-product")
         public ResponseEntity<Product> createProduct(@RequestBody Product product) {
             try {
                 Product productObj = new Product();
@@ -59,7 +59,7 @@ public class TestLinkticController {
             }
         }
 
-        @PostMapping("/update/{id}")
+        @PostMapping("/update-product/{id}")
         public ResponseEntity<Product> updateProduct(@PathVariable("id") long id, @RequestBody Product product) {
             try {
                 Optional<Product> productData = productRepository.findById(id);
@@ -80,7 +80,7 @@ public class TestLinkticController {
 
         }
 
-        @DeleteMapping("/delete/{id}")
+        @DeleteMapping("/delete-product/{id}")
         public ResponseEntity<HttpStatus> deleteProduct(@PathVariable("id") long id) {
             try {
                 productRepository.deleteById(id);
