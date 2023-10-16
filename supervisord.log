@@ -206,3 +206,31 @@
 2023-10-15 23:15:50,826 WARN received SIGTERM indicating exit request
 2023-10-15 23:15:50,826 INFO waiting for app to die
 2023-10-15 23:15:51,828 INFO stopped: app (terminated by SIGTERM)
+2023-10-15 23:44:45,107 INFO Set uid to user 0 succeeded
+2023-10-15 23:44:45,110 INFO supervisord started with pid 1
+2023-10-15 23:44:46,115 INFO spawned: 'app' with pid 7
+2023-10-15 23:44:47,126 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-15 23:48:06,377 WARN received SIGTERM indicating exit request
+2023-10-15 23:48:06,377 INFO waiting for app to die
+2023-10-15 23:48:07,378 INFO stopped: app (terminated by SIGTERM)
+2023-10-15 23:51:29,996 INFO Set uid to user 0 succeeded
+2023-10-15 23:51:29,998 INFO supervisord started with pid 1
+2023-10-15 23:51:31,003 INFO spawned: 'app' with pid 7
+2023-10-15 23:51:32,020 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-15 23:53:26,830 WARN received SIGTERM indicating exit request
+2023-10-15 23:53:26,831 INFO waiting for app to die
+2023-10-15 23:53:27,833 INFO stopped: app (terminated by SIGTERM)
+2023-10-15 23:53:48,159 INFO Set uid to user 0 succeeded
+2023-10-15 23:53:48,162 INFO supervisord started with pid 1
+2023-10-15 23:53:49,166 INFO spawned: 'app' with pid 7
+2023-10-15 23:53:50,178 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-15 23:56:20,235 WARN received SIGTERM indicating exit request
+2023-10-15 23:56:20,235 INFO waiting for app to die
+2023-10-15 23:56:21,237 INFO stopped: app (terminated by SIGTERM)
+2023-10-15 23:56:41,015 INFO Set uid to user 0 succeeded
+2023-10-15 23:56:41,018 INFO supervisord started with pid 1
+2023-10-15 23:56:42,022 INFO spawned: 'app' with pid 7
+2023-10-15 23:56:43,036 INFO success: app entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-15 23:58:56,033 WARN received SIGTERM indicating exit request
+2023-10-15 23:58:56,034 INFO waiting for app to die
+2023-10-15 23:58:57,036 INFO stopped: app (terminated by SIGTERM)

@@ -42,7 +42,7 @@ public class TestLinkticService {
 
     }
 
-    public ResponseEntity<Product> createProduct(@RequestBody Product product) {
+    public ResponseEntity<Product> createProduct(Product product) {
         try {
             Product productObj = new Product();
             productObj.setName(product.getName());
