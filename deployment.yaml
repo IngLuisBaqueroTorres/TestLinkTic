@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: testlinktic
 spec:
-  replicas: 4
+  replicas: 1
   selector:
     matchLabels:
       app: testlinktic

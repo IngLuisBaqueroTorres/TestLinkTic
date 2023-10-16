@@ -33,7 +33,7 @@ Para construir la imagen de docker se debe ejecutar el siguiente comando:
 ### Deploy
 Para desplegar la aplicación en kubernetes se debe ejecutar el siguiente comando:
 
-``` kubectl apply -f kubernetes/deployment.yaml ```
+``` kubectl apply -f deployment.yaml ```
 ### Run
 Para ejecutar la aplicación en kubernetes se debe ejecutar el siguiente comando:
 
